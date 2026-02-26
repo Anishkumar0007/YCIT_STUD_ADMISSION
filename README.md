@@ -67,9 +67,10 @@ Developed with ❤️ using ABAP Cloud.
 
 ## 📸 App Preview
 
-<img width="1879" height="803" alt="app_preview png" src="https://github.com/user-attachments/assets/db89a53a-c60c-45f0-b2fa-e37642dc8f43" />
 
 
+
+<img width="1876" height="729" alt="Screenshot 2026-02-26 145258" src="https://github.com/user-attachments/assets/2a5b6f95-3428-4ca7-b8d4-f2c56013aa91" />
 
 
 
