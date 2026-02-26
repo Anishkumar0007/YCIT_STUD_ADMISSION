@@ -65,8 +65,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Developed with ❤️ using ABAP Cloud.
 
 
-## 📸 App Preview
 
-![Student Admission Object Page](./images/app_preview.png)
 
 
