@@ -65,6 +65,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Developed with ❤️ using ABAP Cloud.
 
 
+## 📸 App Preview
+
+<img width="1879" height="803" alt="app_preview png" src="https://github.com/user-attachments/assets/db89a53a-c60c-45f0-b2fa-e37642dc8f43" />
+
+
+
+
+
+
+
 
 
 
